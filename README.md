@@ -22,7 +22,7 @@
     </ul>
     
   <h2>Pode ser acessado por meio do link: </h2>
-  <p> <a href="" target="_blank" >Clique aqui para acessar!</a></p>  
+  <p> <a href="https://lauragpse.github.io/calculadora-bebidas-com-desconto/" target="_blank" >Clique aqui para acessar!</a></p>  
 <br>
 <img src='https://github.com/Lauragpse/calculadora-bebidas-com-desconto/blob/main/restaurante.jpeg' width='850px' >
 <br>
