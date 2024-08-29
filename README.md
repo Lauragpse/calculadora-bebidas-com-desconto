@@ -20,17 +20,18 @@
         <li>Cálculo da taxa de serviço de 10% sobre o valor com desconto.</li>
         <li>Exibição detalhada do recibo, incluindo subtotal, desconto, preço com desconto, taxa de serviço e valor total.</li>
     </ul>
-    
+
+    <h3>Linguagens de programação e tecnologias utilizadas:</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+<br>
   <h2>Pode ser acessado por meio do link: </h2>
   <p> <a href="https://lauragpse.github.io/calculadora-bebidas-com-desconto/" target="_blank" >Clique aqui para acessar!</a></p>  
 <br>
 <img src='https://github.com/Lauragpse/calculadora-bebidas-com-desconto/blob/main/restaurante.jpeg' width='850px' >
 <br>
 
-<h3>Linguagens de programação e tecnologias utilizadas:</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-<br>
   
