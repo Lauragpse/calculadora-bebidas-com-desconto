@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="ativJs2.css">
+</head>
+
+<body>
+    <h1>Restaurante Oásis</h1>
+    <div class="calculadoraMain">
+        <h2>Calculadora de Conta de Restaurante</h2>
+
+        <label for="antesHappyHour">Valor das bebidas antes do Happy Hour:</label>
+        <input type="number" id="antesHappyHour" name="antesHappyHour">
+        <label for="quantidadeAntes">Quantidade consumida antes do Happy Hour:</label>
+        <input type="number" id="quantidadeAntes" name="quantidadeAntes">
+        <label for="quantidadeApos">Quantidade de bebidas consumidas durante o Happy Hour:</label>
+        <input type="number" id="quantidadeApos" name="quantidadeApos">
+        <button onclick="calcularConta()">Calcular Total</button>
+        <div id="resultado"></div>
+    </div>
+
+    <div class="calculadoraMain">
+        <h2>Nossos descontos:</h2>
+        <p>Descontos de 25% no Happy Hour até as 19:00hrs</p>
+        <p>Aceitamos todos os Cartões</p>
+    </div>
+    <script src="ativJs2.js"></script>
+</body>
+
+</html>
